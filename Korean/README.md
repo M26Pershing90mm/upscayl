@@ -28,6 +28,9 @@ GitHub에 Release 파일이 게시되면 아래 링크에서 다운로드할 수
 | MD5 | `03e865d0e160500784743dff4e0124df` |
 | SHA-1 | `ea1b7853f0a10ae4c52e4b4168c028ba26fbee20` |
 | SHA-256 | `5e96fdff948280521ab382eab2920257f195474a0a6c9845b0a878b30630aa1a` |
+| VirusTotal | [RAR 파일 분석 결과 확인](https://www.virustotal.com/gui/file/5e96fdff948280521ab382eab2920257f195474a0a6c9845b0a878b30630aa1a?nocache=1) |
+
+VirusTotal 링크는 해당 SHA-256 해시의 파일 분석 페이지로 연결됩니다. **VirusTotal 결과는 파일의 안전성을 보증하지 않으며, 탐지 여부는 해당 페이지에서 직접 확인해야 합니다.**
 
 위 해시값은 **RAR 압축파일 자체**에 대한 값입니다. 원본 해시값과 대조하려면 Windows PowerShell에서 다음 명령을 실행합니다.
 
@@ -115,6 +118,8 @@ Get-FileHash -LiteralPath '.\upscayl 2.15.0 KoreanPatch.rar' -Algorithm SHA256
 
 **Archive:** `upscayl 2.15.0 KoreanPatch.rar` (14,925,770 bytes).  
 **SHA-256:** `5e96fdff948280521ab382eab2920257f195474a0a6c9845b0a878b30630aa1a`.
+
+**VirusTotal:** [View the archive's analysis page](https://www.virustotal.com/gui/file/5e96fdff948280521ab382eab2920257f195474a0a6c9845b0a878b30630aa1a?nocache=1). This link does not certify that the file is safe.
 
 **Download:** [Releases](https://github.com/M26Pershing90mm/upscayl/releases) — check that an actual archive asset has been published.
 
