@@ -1,0 +1,12 @@
+# Upscayl 2.15.0 Korean Patch - checksums
+# Translator: 꿈을꾸는 파랑새 (https://wezard4u.tistory.com/)
+# File: upscayl 2.15.0 KoreanPatch.rar
+# Size: 14,925,770 bytes
+
+MD5      03e865d0e160500784743dff4e0124df
+SHA-1    ea1b7853f0a10ae4c52e4b4168c028ba26fbee20
+SHA-256  5e96fdff948280521ab382eab2920257f195474a0a6c9845b0a878b30630aa1a
+
+# Separate app.asar.korean file provided (not freshly verified by extracting this archive)
+# Size: 167,349,967 bytes
+SHA-256  aacd31ab612917ac19a19be2ad704e4183a22991093324f0148426d728db4729
